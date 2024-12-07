@@ -1,0 +1,11 @@
+.boxContainer{
+    background-color: red;
+    width: 300px;
+    height: 150px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-left: 50px;
+    border: 5px yellow solid;
+    color: white;
+}
